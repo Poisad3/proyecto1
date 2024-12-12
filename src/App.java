@@ -11,6 +11,7 @@ public class App {
         System.out.println("Hola mundo2" + nombre);
 
         // esto es un comentario
+        // esto es un comentario2
     }
 
     public static int add(int a, int b) { // metodo que recibe dos parametros y retorna la suma de los mismos
