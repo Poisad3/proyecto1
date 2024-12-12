@@ -10,6 +10,7 @@ public class App {
         System.out.println("Resultado: " + resultado);
         System.out.println("Hola mundo2" + nombre);
 
+        // esto es un comentario
     }
 
     public static int add(int a, int b) { // metodo que recibe dos parametros y retorna la suma de los mismos
